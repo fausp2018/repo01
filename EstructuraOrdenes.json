@@ -1,0 +1,18 @@
+{
+    "OrderID": 12345,
+    "Address": "123 Calle Falsa, Ciudad, País",
+    "Status": "Pendiente",
+    "Articles": [
+      {
+        "Name": "Artículo1",
+        "Quantity": 2,
+        "Dangerous": false
+      },
+      {
+        "Name": "Artículo2",
+        "Quantity": 1,
+        "Dangerous": true
+      }
+    ]
+  }
+  
